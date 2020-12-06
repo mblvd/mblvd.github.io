@@ -30,6 +30,13 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: "Sequel100Black-85";
+    src: url("../fonts/Sequel100Black-85.ttf") format("truetype");
+    font-weight: 900;
+    font-style: normal;
+}
+
 body {
     background-color: #000;
     align-items: center;
